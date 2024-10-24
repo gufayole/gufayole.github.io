@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://gufayole.github.io/sitemap/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/OfA/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/gKS/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/MUn/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/kjS/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/KTF/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/HbO/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/Qsf/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/xZq/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/pDE/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/Mxc/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/tyg/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/iIK/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/GNJ/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/toR/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/WZP/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/Llh/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/suR/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/nmc/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/TQX/sitemap_index.gufayole
+Sitemap: https://gufayole.github.io/hFk/sitemap_index.gufayole
